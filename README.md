@@ -1,6 +1,6 @@
-# Titlu Proiect
+# Proiect Rețele de Calculatoare
 
-Acest proiect este o aplicație simplă client-server care permite clientului să controleze anumite aplicații de pe partea de server. Clientul poate trimite comenzi serverului pentru a efectua acțiuni asupra aplicațiilor suportate.
+Acest proiect este o aplicație simplă client-server care permite clientului să controleze anumite aplicații de pe partea de server. Clientul poate trimite comenzi serverului pentru a efectua acțiuni asupra aplicațiilor suportate (aplicația nativă de muzică Apple Music și aplicația Terminal).
 
 ## Cum să începi
 
